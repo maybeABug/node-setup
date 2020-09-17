@@ -35,3 +35,18 @@ ctrl + shift + v => preview readme
 ## adicionar o tsconfig para que o ts-node-dev entenda os caminhos @
 
 ### \$ yarn add tsconfig-paths -D
+
+## adicionar o eslint como dependencia de desenvolvimento
+
+### \$ yarn add eslint -D
+
+## inicializar o eslint
+
+### \$ yarn eslint --init
+
+## copiar e instalar todas as dependencias que o eslint deu
+
+### \$ yarn add -D @typescript-eslint/eslint-plugin@latest eslint-config-airbnb-base@latest eslint-plugin-import@^2.21.2 @typescript-eslint/parser@latest9
+
+## configurar o jest 
+
