@@ -1,0 +1,8 @@
+{
+  "name": "node-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maybeABug/node-setup.git",
+  "author": "Victor Willian <victorwillian1012@gmail.com>",
+  "license": "MIT"
+}
