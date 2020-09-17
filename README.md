@@ -50,3 +50,17 @@ ctrl + shift + v => preview readme
 
 ## configurar o jest 
 
+### \$ yarn add jest -D 
+
+## adicionar types do jest
+
+### \$ yarn add @types/jest -D
+
+## iniciar o jest 
+
+### \$ yarn jest --init
+
+
+## adicionando a dependencia que faz o jest funcionar com o ts 
+
+### \$ yarn add ts-jest -D 
