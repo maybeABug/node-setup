@@ -64,3 +64,7 @@ ctrl + shift + v => preview readme
 ## adicionando a dependencia que faz o jest funcionar com o ts 
 
 ### \$ yarn add ts-jest -D 
+
+## adicionando o babel 
+
+## \$ yarn add -D @babel/cli @babel/core @babel/node @babel/preset-env @babel/preset-typescript babel-plugin-module-resolver
